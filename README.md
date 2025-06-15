@@ -81,3 +81,7 @@ pip install gradio  <br>
 - Add input validation to make the UI more robust
 
 - Deploy publicly using Hugging Face Spaces or Streamlit Cloud
+
+## GradioUI
+
+https://github.com/user-attachments/assets/429987d6-a696-4d9c-a565-c498acb79607
